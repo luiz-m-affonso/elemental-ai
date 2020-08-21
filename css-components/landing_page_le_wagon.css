@@ -1,0 +1,82 @@
+
+body{
+  background: rgb(12, 12, 12);
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+  font-weight: lighter;
+  font-size: 15px;
+}
+a {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+  text-align: center;
+  color: rgb(253, 253, 253);
+}
+   
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/2081166/pexels-photo-2081166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  padding: 150px;
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 5px rgb(255, 255, 255);
+}
+#banner h1 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  text-shadow: 1px 1px 5px rgb(255, 255, 255);
+
+}
+#banner p {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  text-shadow: 1px 1px 5px rgb(255, 255, 255);
+
+}
+#footer{
+  padding: 30px;
+  text-align: center;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card {
+	font-weight: lighter;
+	text-align: center;
+	background-color: rgb(12, 12, 12);
+	border-radius: 5px;
+	border: solid 1px rgb(12, 12, 12);
+	box-shadow: 2px 2px 2px 1px rgba(9, 5, 255, 0.2);
+	margin: 20px;
+}
+
+#footer a {
+  text-align: center;
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  text-align: center;
+  color: rgb(82, 60, 60);
+}
+
+.cards {
+  text-align: center;
+}

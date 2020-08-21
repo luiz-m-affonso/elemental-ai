@@ -1,0 +1,15 @@
+.container {
+    width: 1000px;
+    text-align: center;
+    
+}
+
+.margin-example {
+    margin: 2px;
+}
+
+.text-center {
+    text-align: center;
+    width: 1000px;
+    font-size: 40px;
+}
